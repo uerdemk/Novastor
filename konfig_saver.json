@@ -12,7 +12,8 @@
 				"command":
 					[
 						"sh running-config",
-						"sh ip int brief"
+						"sh ip int brief",
+						"sh mac address-table"
 					],
 				"save": "",
 				"result":
